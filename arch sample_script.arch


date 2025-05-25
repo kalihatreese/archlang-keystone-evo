@@ -1,0 +1,4 @@
+@trade AAPL 5
+@snipe ETH 30
+!cybercop.hunt
+!overlord.deploy sniper_bot
